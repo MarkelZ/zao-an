@@ -1,0 +1,21 @@
+{
+  "text": "早安",
+  "sprite_path": "sprite.png",
+  "background_path": "background.png",
+  "output_gif": "result.gif",
+  "font_path": "Simsun.ttf",
+  "canvas_size": [256, 256],
+  "frames_per_char": 12,
+  "frame_duration": 0.04,
+  "sprites_count": 100,
+  "rotation_speed_deg_per_frame": 42,
+  "sprite_scale_start": 0.4,
+  "sprite_scale_end": 0.1,
+  "shake_magnitude": 10,
+  "shake_duration": 5,
+  "loop": 0,
+  "glyph_render_size": 1024,
+  "outline_points": 300,
+  "save_frames": false,
+  "frames_dir": "frames"
+}
